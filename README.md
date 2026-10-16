@@ -1,8 +1,8 @@
-🌐 HTML Practice Questions
+# 🌐 HTML Practice Questions
 
 This repository contains my HTML practice programs, examples, and solutions. I am using this repository to improve my HTML skills and learn how to create well-structured web pages through regular practice.
 
-📚 Topics Covered
+# 📚 Topics Covered
 
 - HTML Introduction and Basics
 - HTML Document Structure
@@ -57,7 +57,7 @@ This repository contains my HTML practice programs, examples, and solutions. I a
 - HTML Validation and Best Practices
 - HTML Mini Projects and Practice Exercises
 
-🎯 Purpose of This Repository
+# 🎯 Purpose of This Repository
 
 - Learn HTML from basic to advanced concepts.
 - Practice HTML tags, elements, and attributes.
@@ -66,13 +66,13 @@ This repository contains my HTML practice programs, examples, and solutions. I a
 - Develop a strong foundation for CSS and JavaScript.
 - Track my learning progress and improve my web development skills.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - HTML5 — To create and structure web pages.
 - VS Code — To write and edit code.
 - Git and GitHub — To manage and maintain my practice projects.
 
-🚀 Learning Goals
+# 🚀 Learning Goals
 
 - Understand the fundamentals of HTML5.
 - Write clean and readable HTML code.
@@ -80,7 +80,7 @@ This repository contains my HTML practice programs, examples, and solutions. I a
 - Create structured and accessible web pages.
 - Prepare for CSS, JavaScript, and full-stack web development.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Aditya Kashyap
 
